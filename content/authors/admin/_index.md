@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: David J. Grüning
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: David Joachim Grüning
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: David
+last_name: Grüning
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📱
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Behavioral Scientist (Postdoc)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,6 +46,7 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+📚 I'm an academic researcher at Max-Planck Institute & Stanford Center Biodesign Digital Health, and a research affiliate at Cambridge University.
+🖥️ I'm also a researcher at Google's Jigsaw.
+🌐 I specialize in behavioral science in the digital space.
+📱 Mostly I lead research with different smartphone apps. Heard of one sec, Structured, RoutineFlow, or StudySnacks?
